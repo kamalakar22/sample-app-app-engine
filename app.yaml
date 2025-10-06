@@ -1,0 +1,7 @@
+runtime: python310
+
+env_variables:
+  DB_USER: appuser
+  DB_PASS: mysecretpassword
+  DB_NAME: sampledb
+  DB_CONNECTION_NAME: root-amulet-454410-j9:us-central1:my-sql-instanc
